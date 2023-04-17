@@ -11,7 +11,7 @@ import javax.persistence.EntityManagerFactory;
 import javax.persistence.EntityTransaction;
 
 
-public class App {
+public class Driver {
     public static void main(String[] args) {
         System.out.println("Hello ORM!");
         testHibernate();
